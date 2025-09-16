@@ -32,7 +32,7 @@ El proyecto reúne los conocimientos adquiridos en cuatro cursos principales:
 
 ## 🛠️ Tecnologías Utilizadas
 - **HTML5**  
-- **CSS3**  
+- **CSS**  
 - **Flexbox**  
 - **Variables CSS**  
-- **Media Queries**  
+ 
