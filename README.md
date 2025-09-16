@@ -34,5 +34,8 @@ El proyecto reúne los conocimientos adquiridos en cuatro cursos principales:
 - **HTML5**  
 - **CSS**  
 - **Flexbox**  
-- **Variables CSS**  
+- **Variables CSS**
+
+## 🚀 Demo en línea
+Puedes ver el proyecto funcionando aquí: [Demo en Vercel](https://proyecto-html-css-delta.vercel.app/)
  
